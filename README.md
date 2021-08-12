@@ -2,4 +2,4 @@
 
 This is my data project!
 
-It explores the relationships between the weather and climate change trends and birth rates in Australia.
+It explores the relationships between weather and climate change trends and birth rates in Australia.
